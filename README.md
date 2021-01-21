@@ -36,3 +36,4 @@
     usado para convertir los ejemplos de bootstrap y usarlos en JSX 
  
 [link](https://magic.reactjs.net/htmltojsx.htm)
+[colecciones de gitignore](https://github.com/github/gitignore)
