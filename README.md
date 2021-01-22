@@ -39,7 +39,9 @@
 
 [Curso de React desde cero Midudev](https://github.com/midudev/react-live-coding)
 
-[State of JS 2020](https://www.youtube.com/watch?v=MX4h4IHCLBQ)
+[State of JS 2020 video midudev](https://www.youtube.com/watch?v=MX4h4IHCLBQ)
+
+[State of JS](https://2020.stateofjs.com/en-US/features/)
 
 [como usar una api con react] (https://rapidapi.com/blog/how-to-use-an-api-with-react/)
 
