@@ -16,17 +16,6 @@
 
 - ctrl + shift +R    para reiniciar el navegador sin cache 
 
-
-## Otro Tutorial en video
-
-[nextjs de midudev](https://www.youtube.com/watch?v=2jxc8DMzt0I)
-
-
-[Github de este tuto](https://github.com/midudev/react-live-coding)
-
-
-
-
 - Apis en esta prueba
 
 [jsonplaceholder](https://jsonplaceholder.typicode.com)
@@ -35,8 +24,18 @@
 [regres]( https://reqres.in/)
 
 
+## Otro Tutorial en video
+
+[nextjs de midudev](https://www.youtube.com/watch?v=2jxc8DMzt0I)
+
+[Home ESLINT PRETTIER](https://www.youtube.com/watch?v=EEDRcolSHms)
+
+[Github de este tuto](https://github.com/midudev/react-live-coding)
+
 
 ### otros links --------------------
+
+[Curso de React desde cero Midudev](https://github.com/midudev/react-live-coding)
 
 [como usar una api con react] (https://rapidapi.com/blog/how-to-use-an-api-with-react/)
 
@@ -94,3 +93,5 @@
 [Learn Next 100% free](https://masteringnextjs.com/)
 
 [build error production stackoverflow](https://stackoverflow.com/questions/53712936/how-to-build-next-js-production)
+
+[video react y graphql x FAZT](https://www.youtube.com/watch?v=mOXabxAUkzg)
