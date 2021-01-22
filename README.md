@@ -32,10 +32,14 @@
 
 [Github de este tuto](https://github.com/midudev/react-live-coding)
 
+[twiter de midudev](https://twitter.com/midudev)
+
 
 ### otros links --------------------
 
 [Curso de React desde cero Midudev](https://github.com/midudev/react-live-coding)
+
+[State of JS 2020](https://www.youtube.com/watch?v=MX4h4IHCLBQ)
 
 [como usar una api con react] (https://rapidapi.com/blog/how-to-use-an-api-with-react/)
 
@@ -95,3 +99,7 @@
 [build error production stackoverflow](https://stackoverflow.com/questions/53712936/how-to-build-next-js-production)
 
 [video react y graphql x FAZT](https://www.youtube.com/watch?v=mOXabxAUkzg)
+
+[Blog de Dan Abramov](https://overreacted.io/)
+
+[React Fiber Dan Abramov](https://www.youtube.com/watch?v=crM1iRVGpGQ&fbclid=IwAR1JV-Ph5TFpZwhyIps2FqNEGMKERIIzF2QSkMQz5YJ1fwnRUIU8A1tH6eM)

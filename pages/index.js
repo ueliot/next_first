@@ -9,7 +9,7 @@ import fetch from 'isomorphic-fetch'
 
 
  const Index = (props) =>{
-     console.log(props)
+    //  console.log(props)
     return(
         <div>
             <Head>

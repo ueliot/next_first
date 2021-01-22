@@ -39,7 +39,7 @@ User.getInitialProps = async (ctx) => {
     const id=1;
     // const res = await fetch('https://reqres.in/api/users/' + ctx.query.id);    //son otro tipo de comillas
     const res = await fetch(`https://reqres.in/api/users/${ctx.query.id}`)   //ojo las comillas aqui son diferentes para poder usar ${}
-    console.log(res)
+    // console.log(res)
     
     const resJSON = await res.json();
     // console.log(resJSON);
