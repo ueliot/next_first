@@ -1,5 +1,5 @@
 
-##Tutorial sacado de este video:
+#Tutorial sacado de este video
 
 
 [video practico de next por Fazt](https://www.youtube.com/watch?v=Tn6QYliFBcs)    
@@ -47,6 +47,8 @@
 
 [guia de ext de storyblock] (https://www.storyblok.com/tp/next-js-react-guide )
 
+[login fireabase react](https://www.youtube.com/watch?v=UlYGGCNFcWo)
+
 
 
 
@@ -76,3 +78,17 @@
 
 [totorial de Markdown](https://cuadernosdenotas.github.io/creandoestesitio/006Markdown.html)
 
+[Build server rendered React APP](https://tilomitra.medium.com/building-server-rendered-react-apps-with-nextjs-40313e978cb4)
+
+[find comunity](https://spectrum.chat/explore)
+
+[Nextjs discussions](https://github.com/vercel/next.js/discussions)
+
+[Next from ini to production](https://medium.com/@sscaff1/nextjs-from-npm-init-to-production-c9f543169bfb)
+
+
+[React 2025](https://react2025.com/)
+
+[Learn Next 100% free](https://masteringnextjs.com/)
+
+[build error production stackoverflow](https://stackoverflow.com/questions/53712936/how-to-build-next-js-production)
