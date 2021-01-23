@@ -37,7 +37,7 @@
 
 ### otros links --------------------
 
-[Curso de React desde cero Midudev](https://github.com/midudev/react-live-coding)
+[Curso de React desde cero Midudev](https://github.com/midudev/curso-nextjs-twitter-clone)
 
 [State of JS 2020 video midudev](https://www.youtube.com/watch?v=MX4h4IHCLBQ)
 
@@ -105,3 +105,11 @@
 [Blog de Dan Abramov](https://overreacted.io/)
 
 [React Fiber Dan Abramov](https://www.youtube.com/watch?v=crM1iRVGpGQ&fbclid=IwAR1JV-Ph5TFpZwhyIps2FqNEGMKERIIzF2QSkMQz5YJ1fwnRUIU8A1tH6eM)
+
+
+## GraphQL Link
+[Using GraphQL](https://graphql.org/code/)
+[Prisma](https://www.prisma.io/ )  
+[Prisma Tutorial video](https://www.youtube.com/watch?v=Ehv69qFvN2I )
+[Contruye Server GraphQL con Prysma](https://www.nocountryforgeeks.com/contruye-un-server-graphql-con-prisma/ )
+[que es GraphQL de RedHat](https://www.redhat.com/es/topics/api/what-is-graphql)
