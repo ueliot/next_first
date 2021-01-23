@@ -74,8 +74,9 @@
 
 
 
-### ambiar de html a react:
-    usado para convertir los ejemplos de bootstrap y usarlos en JSX  [link](https://magic.reactjs.net/htmltojsx.htm)
+### Cambiar de html a react:
+    usado para convertir los ejemplos de bootstrap y usarlos en JSX  
+    [link](https://magic.reactjs.net/htmltojsx.htm)
 
  
 ## Otros enlaces de interes
