@@ -118,6 +118,10 @@
 
 [React Fiber Dan Abramov](https://www.youtube.com/watch?v=crM1iRVGpGQ&fbclid=IwAR1JV-Ph5TFpZwhyIps2FqNEGMKERIIzF2QSkMQz5YJ1fwnRUIU8A1tH6eM)
 
+[Mejorando Terminal ZSH](https://medium.com/@lemmusm/mejorando-nuestra-fea-terminal-en-windows-2d18443b09c9)
+
+[Instalar zsh windows](https://platzi.com/blog/como-instalar-zsh-en-windows/)
+
 
 ## GraphQL Link
 [Using GraphQL](https://graphql.org/code/)
