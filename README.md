@@ -26,11 +26,9 @@
 
 ## Otro Tutorial en video
 
-[nextjs de midudev](https://www.youtube.com/watch?v=2jxc8DMzt0I)
+[nextjs clon twiter midudev](https://github.com/midudev/curso-nextjs-twitter-cloneI)
 
 [Home ESLINT PRETTIER](https://www.youtube.com/watch?v=EEDRcolSHms)
-
-[Github de este tuto](https://github.com/midudev/react-live-coding)
 
 [twiter de midudev](https://twitter.com/midudev)
 
@@ -38,6 +36,8 @@
 ### otros links --------------------
 
 [Curso de React desde cero Midudev](https://github.com/midudev/curso-nextjs-twitter-clone)
+
+[Github de este tuto](https://github.com/midudev/react-live-coding)
 
 [Variables de entorno env y realTiem con Firebase](https://www.youtube.com/watch?v=8ZA2p1SBssk&t=0s)
 
